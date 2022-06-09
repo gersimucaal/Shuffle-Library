@@ -1,0 +1,3 @@
+com\gersimuca\webapp\entities\Book.class
+com\gersimuca\webapp\respositories\BookRespository.class
+com\gersimuca\webapp\WebAppApplication.class
